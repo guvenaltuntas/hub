@@ -4,7 +4,7 @@
   "description": "hub",
   "main": "index.js",
   "scripts": {
-    "dev": "vite",
+    "start": "vite",
     "build": "!no build",
     "test": "vitest",
     "covarage": "npx vitest run --coverage"
