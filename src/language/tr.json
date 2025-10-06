@@ -1,0 +1,39 @@
+{
+    "header.nav.employee.list": "Çalışan Listesi",
+    "header.nav.add.new": "Yeni Ekle",
+
+    "employee.list.page.title": "Çalışan Listesi",
+    "employee.list.filter": "Çalışanları Filtrele",
+
+    "employee.list.no.records": "Henüz Çalışan Yok",
+    "employee.list.no.results": "Aramanız İçin Sonuç Yok",
+    "employee.list.delete.confirm": "{0} {1} isimli kayıt silinecektir.",
+
+    "employee.property.first.name": "Adı",
+    "employee.property.last.name": "Soyadı",
+    "employee.property.date.of.employment": "İşe Giriş Tarihi",
+    "employee.property.date.of.birth": "Doğum Tarihi",
+    "employee.property.phone": "Telefon",
+    "employee.property.email": "E-Posta",
+    "employee.property.department": "Departman",
+    "employee.property.position": "Poziyon",
+    "employee.property.actions": "İşlemler",
+
+    "edit.employee.your.are.editing.title": "{0} {1}'i düzenliyorsunuz",
+    "edit.employee.title": "Çalışanı Düzenle",
+    "add.employee.title": "Çalışan Ekle",
+    "edit.employee.confirm.text": "Çalışan bu detaylarla kaydedilecek:",
+
+    "action.edit": "Düzenle",
+    "action.delete": "Sil",
+    "action.proceed": "Devam Et",
+    "action.cancel": "İptal",
+    "action.save": "Kaydet",
+
+    "select.default.value": "Lütfen Seçiniz",
+
+    "confirm.are.you.sure": "Emin misin?",
+
+    "error.required": "Bu alanı doldurmak zorunludur!",
+    "error.employee.exist": "!Aynı E-posta ile kayıtlı başka bir kullanıcı var"
+}

@@ -1,0 +1,39 @@
+{
+    "header.nav.employee.list": "Employee List",
+    "header.nav.add.new": "Add New",
+
+    "employee.list.page.title": "Employee List",
+    "employee.list.filter": "Filter Employees",
+
+    "employee.list.no.records": "No Employees Yet",
+    "employee.list.no.results": "No Result For Search",
+    "employee.list.delete.confirm": "Selected Employee record of {0} {1} will be deleted",
+
+    "employee.property.first.name": "First Name",
+    "employee.property.last.name": "Last Name",
+    "employee.property.date.of.employment": "Date of Employment",
+    "employee.property.date.of.birth": "Date of Birth",
+    "employee.property.phone": "Phone",
+    "employee.property.email": "Email",
+    "employee.property.department": "Department",
+    "employee.property.position": "Position",
+    "employee.property.actions": "Actions",
+
+    "edit.employee.your.are.editing.title": "you are editing {0} {1}",
+    "edit.employee.title": "Edit Employee",
+    "add.employee.title": "Add Employee",
+    "edit.employee.confirm.text": "Employee will be saved with details:",
+
+    "action.edit": "Edit",
+    "action.delete": "Delete",
+    "action.proceed": "Proceed",
+    "action.cancel": "Cancel",
+    "action.save": "Save",
+
+    "select.default.value": "Please Select",
+
+    "confirm.are.you.sure": "Are you sure?",
+
+    "error.required": "This filed is required!",
+    "error.employee.exist": "!Employee already exist please check with email"
+}
