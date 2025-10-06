@@ -11,10 +11,18 @@
 > Node version for local installation: v22.19.0 (other versions are untested)
 
 # INSTALLATION
+
+You can perform an automatic installation by running the setup.sh script:
+```
+    ./setup.sh
+```
+
+> ⚠️ Note: During this installation, if Node Version Manager (NVM) is not installed on your system, the script will automatically install it. If you do not want NVM to be installed, you should choose the manual installation instead.
+
 > Requires Node v22.19.0. If you don't have it yet, see the Node Version Manager instructions below.
 
 * Step 1: Install project dependencies => `npm install` Run this inside the project folder.
-* Step 2: Start the HTTP server => `npm run dev` (Alternatively, you can use a simple Node.js app to serve the project folder and handle URL rewrites.)
+* Step 2: Start the HTTP server => `npm run start` (Alternatively, you can use a simple Node.js app to serve the project folder and handle URL rewrites.)
 * Step 3: Access the local app: Vite will display the local URL in the terminal. Open it in your browser using Command + Click or by copying it manually.
 
 # Node Version Manager Installation
